@@ -6,7 +6,7 @@
 	<title> naverno moi bydyshii blog  </title>
 	</head>
 	<body bgcolor="white" text="black">
-	<a target="_blank" href="http://radikal.ru/F/s45.radikal.ru/i109/1303/82/20429bf63cea.png.html"><img src="http://s45.radikal.ru/i109/1303/82/20429bf63ceat.jpg" ></a>
+	<img src="http://s45.radikal.ru/i109/1303/82/20429bf63cea.png"></img>
 	<h2 align="center"> Блог Семёнова Сергея </h2>
 	<table border="0" width="100%" cellpading="5" cellspacing="0">
 	   <tr>

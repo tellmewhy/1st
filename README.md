@@ -1,4 +1,3 @@
-
   <html>
     <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +6,7 @@
 	<title> naverno moi bydyshii blog  </title>
 	</head>
 	<body bgcolor="white" text="black">
-	<img src="http://echo.msk.ru/att/element-539172-picture-0.jpg"></img>
+	<a target="_blank" href="http://radikal.ru/F/s45.radikal.ru/i109/1303/82/20429bf63cea.png.html"><img src="http://s45.radikal.ru/i109/1303/82/20429bf63ceat.jpg" ></a>
 	<h2 align="center"> Блог Семёнова Сергея </h2>
 	<table border="0" width="100%" cellpading="5" cellspacing="0">
 	   <tr>

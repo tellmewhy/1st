@@ -7,6 +7,31 @@
 	</head>
 	<body bgcolor="white" text="black">
 	<img src="http://s45.radikal.ru/i109/1303/82/20429bf63cea.png"></img>
+	 <div id="wrapper">
+        <div id="login" class="animate form">
+            <form  action="mysuperscript.php" autocomplete="on">
+                <h3>Войти</h3>
+                <p>
+                    <label for="username" class="uname" data-icon="u" > Логин </label>
+                    <input id="username" name="username" required="required" type="text" placeholder="myusername or mymail@mail.com"/>
+                </p>
+                <p>
+                    <label for="password" class="youpasswd" data-icon="p"> Пароль </label>
+                    <input id="password" name="password" required="required" type="password" placeholder="eg. X8df!90EO" />
+                </p>
+                <p class="keeplogin">
+                    <input type="checkbox" name="loginkeeping" id="loginkeeping" value="loginkeeping" />
+                    <label for="loginkeeping">Чужой компьютер</label>
+                </p>
+                <p class="login button">
+                    <input type="submit" value="Войти" />
+                </p>
+                <p class="change_link">
+                   Вы ещё не зарегистрировались?
+                    <a href="#tosubscribe" class="to_subscribe">Присоедениться</a>
+                </p>
+            </form>
+        </div>
 	<h2 align="center"> Блог Семёнова Сергея </h2>
 	<table border="0" width="100%" cellpading="5" cellspacing="0">
 	   <tr>
